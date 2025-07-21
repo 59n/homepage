@@ -67,6 +67,12 @@ const default_configuration = {
               icon: "cat",
               icon_color: palette.blue,
             },
+            {
+              name: "Minecraft AFK",
+              url: "https://minecraftafk.com/",
+              icon: "star",
+              icon_color: palette.red,
+            },           
           ],
         },
         {
