@@ -119,12 +119,12 @@ const default_configuration = {
               icon: "news",
               icon_color: palette.peach,
             },
-            // {
-            //   name: "3",
-            //   url: "https://kutok.io",
-            //   icon: "border-radius",
-            //   icon_color: palette.red,
-            // },
+            {
+              name: "Movie Box Pro",
+              url: "http://movieboxpro.app",
+              icon: "movie",
+              icon_color: palette.red,
+            },
             // {
             //   name: "4",
             //   url: "https://grnt.media",
