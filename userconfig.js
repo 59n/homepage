@@ -69,7 +69,7 @@ const default_configuration = {
             },
             {
               name: "Minecraft AFK",
-              url: "https://minecraftafk.com/",
+              url: "https://minecraftafk.com/dashboard",
               icon: "star",
               icon_color: palette.red,
             },           
